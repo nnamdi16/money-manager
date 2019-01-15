@@ -1,0 +1,14 @@
+{
+  "name": "money-manger",
+  "version": "1.0.0",
+  "description": "A money manager where teachers and students save money and money issued based on the least request\"",
+  "main": "bank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
